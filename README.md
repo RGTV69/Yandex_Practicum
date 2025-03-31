@@ -112,6 +112,17 @@
   <tr align="center">
     <td>10</td>
     <td>
+      <a href="https://github.com/RGTV69/Yandex_Practicum/tree/main/10.%20Временные%20ряды">Временные ряды</a>
+    </td>
+    <td align="justify">
+      <p>Компания «Чётенькое такси» собрала исторические данные о заказах такси в аэропортах. Чтобы привлекать больше водителей в период пиковой нагрузки, нужно спрогнозировать количество заказов такси на следующий час. Постройте модель для такого предсказания.</p>
+    </td>
+    <td>pandas<br>matplotlib<br>numpy<br>sklearn<br>seaborn<br>lightgbm<br>catboost<br>warnings<br>statsmodels</td>
+  </tr>
+  <!--
+  <tr align="center">
+    <td>11</td>
+    <td>
       <a href=""></a>
     </td>
     <td align="justify">
@@ -120,4 +131,27 @@
     </td>
     <td></td>
   </tr>
+  <tr align="center">
+    <td>12</td>
+    <td>
+      <a href=""></a>
+    </td>
+    <td align="justify">
+      <p></p>
+      <p></p>
+    </td>
+    <td></td>
+  </tr>
+  <tr align="center">
+    <td>13</td>
+    <td>
+      <a href=""></a>
+    </td>
+    <td align="justify">
+      <p></p>
+      <p></p>
+    </td>
+    <td></td>
+  </tr>
+  -->
 </table>
