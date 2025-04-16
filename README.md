@@ -119,18 +119,18 @@
     </td>
     <td>pandas<br>matplotlib<br>numpy<br>sklearn<br>seaborn<br>lightgbm<br>catboost<br>warnings<br>statsmodels</td>
   </tr>
-  <!--
   <tr align="center">
     <td>11</td>
     <td>
-      <a href=""></a>
+      <a href="https://github.com/RGTV69/Yandex_Practicum/tree/main/11.%20Машинное%20обучение%20для%20текстов">Машинное обучение для текстов</a>
     </td>
     <td align="justify">
-      <p></p>
-      <p></p>
+      <p>Интернет-магазин «Викишоп» запускает новый сервис. Теперь пользователи могут редактировать и дополнять описания товаров, как в вики-сообществах. То есть клиенты предлагают свои правки и комментируют изменения других. Магазину нужен инструмент, который будет искать токсичные комментарии и отправлять их на модерацию.</p>
+      <p>Обучите модель классифицировать комментарии на позитивные и негативные. В вашем распоряжении набор данных с разметкой о токсичности правок.</p>
     </td>
-    <td></td>
+    <td>pandas<br>seaborn<br>matplotlib<br>tqdm<br>pymystem3<br>re<br>nltk<br>wordcloud<br>sklearn<br>catboost<br>warnings</td>
   </tr>
+  <!--
   <tr align="center">
     <td>12</td>
     <td>
