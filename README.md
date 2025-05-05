@@ -130,18 +130,18 @@
     </td>
     <td>pandas<br>seaborn<br>matplotlib<br>tqdm<br>pymystem3<br>re<br>nltk<br>wordcloud<br>sklearn<br>catboost<br>warnings</td>
   </tr>
-  <!--
   <tr align="center">
     <td>12</td>
     <td>
-      <a href=""></a>
+      <a href="https://github.com/RGTV69/Yandex_Practicum/tree/main/12.%20Компьютерное%20зрение">Компьютерное зрение</a>
     </td>
     <td align="justify">
-      <p></p>
-      <p></p>
+      <p>Сетевой супермаркет «Хлеб-Соль» внедряет систему компьютерного зрения для обработки фотографий покупателей.</p>
+      <p>Постройте модель, которая по фотографии определит приблизительный возраст человека. В вашем распоряжении набор фотографий людей с указанием возраста.</p>
     </td>
-    <td></td>
+    <td>pandas<br>seaborn<br>matplotlib<br>tensorflow</td>
   </tr>
+  <!--
   <tr align="center">
     <td>13</td>
     <td>
