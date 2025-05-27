@@ -150,6 +150,6 @@
       <p>Чтобы оптимизировать производственные расходы, металлургический комбинат «Стальная птица» решил уменьшить потребление электроэнергии на этапе обработки стали. Для этого комбинату нужно контролировать температуру сплава.</p>
       <p>Ваша задача — построить модель, которая будет предсказывать температуру сплава.</p>
     </td>
-    <td>pandas<br>seaborn<br>matplotlib<br>phik<br>import sklearn<br>lightgbm<br>catboosta</td>
+    <td>pandas<br>seaborn<br>matplotlib<br>phik<br>sklearn<br>lightgbm<br>catboosta</td>
   </tr>
 </table>
