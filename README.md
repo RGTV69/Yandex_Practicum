@@ -141,17 +141,14 @@
     </td>
     <td>pandas<br>seaborn<br>matplotlib<br>tensorflow</td>
   </tr>
-  <!--
   <tr align="center">
     <td>13</td>
     <td>
-      <a href=""></a>
+      <a href="https://github.com/RGTV69/Yandex_Practicum/tree/main/13.%20Выпускной%20проект">Выпускной проект</a>
     </td>
     <td align="justify">
-      <p></p>
-      <p></p>
+      <p>Чтобы оптимизировать производственные расходы, металлургический комбинат «Стальная птица» решил уменьшить потребление электроэнергии на этапе обработки стали. Для этого комбинату нужно контролировать температуру сплава. Ваша задача — построить модель, которая будет её предсказывать.</p>
     </td>
-    <td></td>
+    <td>pandas<br>seaborn<br>matplotlib<br>phik<br>import sklearn<br>lightgbm<br>catboosta</td>
   </tr>
-  -->
 </table>
